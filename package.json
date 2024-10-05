@@ -1,6 +1,6 @@
 {
   "name": "wh40tabletop-roll-simulator",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "homepage": "https://Haxodius.github.io/wh40tabletop-roll-simulator/",
   "private": true,
   "dependencies": {
