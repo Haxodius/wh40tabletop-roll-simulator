@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wh40tabletop-roll-simulator/static/css/main.dc4d6ff2.css",
+    "main.js": "/wh40tabletop-roll-simulator/static/js/main.08b6fa81.js",
+    "index.html": "/wh40tabletop-roll-simulator/index.html",
+    "main.dc4d6ff2.css.map": "/wh40tabletop-roll-simulator/static/css/main.dc4d6ff2.css.map",
+    "main.08b6fa81.js.map": "/wh40tabletop-roll-simulator/static/js/main.08b6fa81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.08b6fa81.js"
+  ]
+}
